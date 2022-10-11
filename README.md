@@ -11,3 +11,6 @@ speech_recognition لتحويل الصوت الى نص.
 googletrans للترجمة. 
 
 *صنع قاعدة بيانات لتخزين معلومات أصحاب الأعمال.*
+
+
+RMZ of knowledge [team number 14]
